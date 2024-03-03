@@ -1,3 +1,4 @@
+package animals;
 public abstract class animal {
     private int ToGo;
     private int swim;
